@@ -1,3 +1,6 @@
+#Fork used for the Reasoning Models track I facilitate for a ~6,600-member DS/ML learning group; my session notes, exercises, and extensions are in /sessions.
+
+
 # Build A Reasoning Model (From Scratch)
 
 This repository contains the code for developing an LLM reasoning model and is the official code repository for the book [*Build a Reasoning Model (From Scratch)*](https://mng.bz/lZ5B).
